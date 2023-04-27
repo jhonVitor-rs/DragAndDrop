@@ -6,8 +6,7 @@
   1. Clone o repositorios atraves do comando git clone https://github.com/jhonVitor-rs/DragAndDrop.git, ou faça o download.
   2. Entre no projeto e rode 'npm install'.
   3. Rode com 'npm run dev' para rodar em modo de desenvolvimento.
-  
-##Utilização
+## Utilização
   Voce ter uma tela inicial com 2 tarefa ja pré definidas voce pode editalas clicando no icone de lapis na tarefa ou excluila clicando no icone de lixeira na tarefa, voce tambem poderá excluilas clicando no icone de lixeira.
   Se preferir pode adicionar novas tarefas clicando no icone de + no canto superior direito, ele ira abri uma tela na qual você entrara com o titulo a descrição e a cor da tarefa, para adicionala basta clicar nop botão enviar, e ela será adicionada na primeira coluna de tarefas para sair desta tela basta clicar em qualquer lugar fora do formulario.
   Para mudar as tarefas de lugar basta clicas nelas e arrastar com o botão pressionado para o novo local, podendo reorganizalas na propria coluna ou mudalas de coluna.
