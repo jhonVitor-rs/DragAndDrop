@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "To do",
+    "tasks": [
+      {
+        "id": 1,
+        "title": "Trabalho",
+        "content": "Dar entrada na nota de semente.",
+        "color": 0
+      },
+      {
+        "id": 2,
+        "title": "Reunião",
+        "content": "Reunião com o time de desenvolvimento para discutir o cronograma do projeto.",
+        "color": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "In Progress",
+    "tasks": [
+      {
+        "id": 3,
+        "title": "Pesquisa",
+        "content": "Fazer pesquisa de mercado para identificar os concorrentes.",
+        "color": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Blocked",
+    "tasks": []
+  },
+  {
+    "id": 4,
+    "title": "Completed",
+    "tasks": []
+  }
+]
